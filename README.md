@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="banner.png" alt="">
 
 <p align="center"> 
   Visitor count<br>
