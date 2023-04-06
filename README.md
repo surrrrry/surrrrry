@@ -1,4 +1,4 @@
-<img src="banner.png" alt="">
+<img src="banner2.png" alt="">
 
 <p align="center"> 
   Visitor count<br>
